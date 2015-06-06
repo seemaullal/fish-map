@@ -5,11 +5,11 @@
 
 Github repo: https://github.com/KamillaKhabibrakhmanova/https://github.com/KamillaKhabibrakhmanova/fish
 
-![Picture](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/265/903/datas/gallery.jpg
+![Picture](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/265/903/datas/gallery.jpg)
 
 ### Screenshot
 
-![Picture](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/265/834/datas/gallery.jpg
+![Picture](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/265/834/datas/gallery.jpg)
 Above: An interactive map showing locations with marine mammal injury reports
 
 ## Contributors
