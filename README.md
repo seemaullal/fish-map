@@ -1,55 +1,21 @@
-# Bechderator
-=============
-![Badge of Honor](https://img.shields.io/badge/Built%20at-Fullstack-green.svg?style=flat-square)
-> Visualize movie scripts and the Bechdel test
+# MARINE MAMMAL INJURY REPORT FORM AND ANALYSIS
+> An easy way for commercial fishermen to submit animal injury reports and for these results to be easily analyzed.
 
-## Table of Contents
+### Mobile App
 
-- [Screenshot](#screenshot)
-- [Instructions](#instructions)
-- [Roadmap](#roadmap)
-- [Contributors](#contributors)
-- [License](#license)
+Github repo: https://github.com/KamillaKhabibrakhmanova/https://github.com/KamillaKhabibrakhmanova/fish
 
+![Picture](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/265/903/datas/gallery.jpg)
 
 ### Screenshot
 
-![Picture](http://i.imgur.com/9J43xR5.png)
-_Above: The Bechderator analyzes the 1995 cult classic Clueless_
-
-See a live version of the app [here](http://bechdelerator.herokuapp.com/).
-
-
-## Instructions
-
-To see if your favorite movie passes the Bechdel Test:
- 1. Copy your favorite movie script
- 2. Paste it into the Bechdelerator
- 3. Type in the title of the movie
- 4. Click Tomato Analysis or Split Analysis to see the Bechdelerator's Analysis.
-Tomato Analysis uses Rotten Tomatoes' API to identify major characters, while Split Analysis attempts to identify them through the Bechderator algorithm.
- 5. The D3 focal graph created reflects communication between characters. Pink nodes are female, blue nodes are male, the lines connecting them are lines shared between them. To identify a particular character, hover over a node.
-
-
-### Roadmap
-
-#### Features
-
--	Identifies main characters through our Bechdelerator Algorithm and through the Rotten Tomatoes API
--	Makes predictions about the genders of main characters with the Genderize API
--	Predicts if a given movie passes the Bechdel Test
--	Generates a D3 focal graph reflecting character communication
-
-#### Next Steps
-
-- Form validation
-- Web scraping to find movie scripts directly
-- Improve user interface
-- Store results in a database rather than regenerate results each time
+![Picture](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/265/834/datas/gallery.jpg)
+Above: An interactive map showing locations with marine mammal injury reports
 
 ## Contributors
-* __Seema Ullal__ - [LinkedIn](https://www.linkedin.com/profile/in/seemaullal) | [GitHub](https://github.com/seemaulla)
-* __Sarah Muenzinger__ - [LinkedIn](https://www.linkedin.com/profile/in/sarahmuenzinger) | [GitHub](https://github.com/smuenzinger)
+* __Seema Ullal__ - [LinkedIn](https://www.linkedin.com/profile/in/seemaullal) | [GitHub](https://github.com/seemaullal)
+* __Kamilla Khabibrakhmanova__ - [LinkedIn](https://www.linkedin.com/profile/in/kamillak) | [GitHub](https://github.com/KamillaKhabibrakhmanova)
+* __Linda Kung__ - [LinkedIn](https://www.linkedin.com/profile/in/lindakung) | [GitHub](https://github.com/lindakung)
 
 ## License
 
